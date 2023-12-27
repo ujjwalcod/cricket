@@ -1,1 +1,3 @@
-# no-cricket
+# cricket u vs comp
+
+this is just an practice game of cricket that is played between user and computer
